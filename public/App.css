@@ -1,0 +1,404 @@
+.formdesign{
+ background-color:rgba(8, 75, 56, 0.356);
+  width: 100%;
+  height:700px;
+  width: 500px;
+ position:fixed;
+left:763px;
+font-weight: bold;
+color:white;
+top:-10px;
+
+}
+
+.btn{
+font-weight: bold;
+background-color: rgba(255, 255, 255, 0.212);
+font-family: AmaticSC-Regular;
+font-weight: bold;
+color:rgb(245, 244, 244);
+font-size:25px;
+width: 120px;
+position: relative;
+left:70px;
+top:160px;
+border-color: white solid 1px;
+
+}
+.btn{
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.212);
+  font-family: AmaticSC-Regular;
+  font-weight: bold;
+  color:rgb(245, 244, 244);
+  font-size:25px;
+  width: 120px;
+  position: relative;
+  left:70px;
+  top:80px;
+  border-color: white solid 1px;
+  
+  }
+  .btnbtn-success{
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.212);
+    font-family: AmaticSC-Regular;
+    font-weight: bold;
+    color:rgb(245, 244, 244);
+    font-size:25px;
+    width: 120px;
+    position: relative;
+    left:50px;
+    top:30px;
+    border-color: white solid 1px;
+    
+    }
+
+h2{
+  color:white;
+  font-size: 40px;
+text-align: center;
+position: relative;
+top:50px;
+left:-130px;
+font-family: AmaticSC-Regular;
+font-weight: bold;
+}
+
+
+a{
+     color: rgb(255, 255, 255);
+   text-align: left;
+   font-family:always forever;
+   font-weight: bold;
+   font-size: 30px;
+   position: relative;
+right:-100px;
+top:40px;
+  }
+
+ 
+
+  
+  @font-face {
+    font-family:always forever;
+    src: url(always forever.ttf);
+  }
+
+  @font-face {
+    font-family:Moon Flower;
+    src: url(Moon\ Flower.ttf );
+  }
+  @font-face {
+    font-family:GatsbyFLF;
+    src: url(GatsbyFLF-Bold.ttf);
+  }
+
+  @font-face {
+    font-family:AmaticSC-Regular;
+    src: url(AmaticSC-Regular.ttf);
+  }
+#paper{
+  color: white;
+  width: 50px;
+  height: 50px;
+}
+
+
+
+
+
+input{
+ 
+ background-color:transparent!important;
+ 
+   position: relative;
+   left:30px;
+top: 50px;
+  width: 200px;
+  height: 60px;
+  font-family:always forever;
+  font-weight: bolder;
+border-bottom-color: solid 2px rgb(247, 252, 250);
+border-top-color: transparent;
+border-left-color: transparent;
+border-right-color: transparent;
+margin-top: 20px;
+}
+h1{
+  text-align:center;
+  font-size: 80px;
+
+  position: relative  ;
+  left:-270px;
+  top: 30px;
+  margin-top: 5px;
+  -webkit-text-stroke-width: 0.1px;
+   -webkit-text-stroke-color: rgb(248, 246, 246);
+ color: rgb(247, 236, 226);
+  font-family: AmaticSC-Regular;
+  font-weight: bolder;
+}
+.h2{
+  text-align:center;
+  position: relative;
+left:-20px;
+font-family:always forever;
+font-weight: bolder;
+ font-size:25px;
+ top:50px;
+ 
+}
+
+#linkB{
+  color: rgb(255, 255, 255);
+text-align: left;
+font-family:always forever;
+font-weight: bold;
+font-size: 30px;
+position: relative;
+right:-140px;
+top:40px;
+text-decoration: underline white;
+width: 80px;
+}
+
+#linkC{
+  color: rgb(255, 255, 255);
+text-align: left;
+font-family:always forever;
+font-weight: bold;
+font-size: 30px;
+position: relative;
+right:-10px;
+top:-370px;
+text-decoration: underline white;
+width: 80px;
+}
+.container{
+  position: relative;
+  top:60px;
+  left:0px;
+  color:white;
+}
+
+.card{
+  background-color:rgba(50, 161, 115, 0.356);
+  color:white;
+  height: 250px;
+  border:rgb(222, 238, 234) solid 1px;
+  border-radius: 0%;
+}
+.card-body{
+  font-family:always forever;
+font-weight: bolder;
+font-size: 30px;
+}
+h4{
+  font-family:always forever;
+  font-weight: bolder;
+  font-size: 40px;
+   
+}
+
+#p{
+   color:white;
+  position: relative;
+  left:280px;
+  top:-55px;
+  size:40px;
+}
+
+#linkB{
+  position: relative;
+  top:130px;
+  left:20px;
+
+}
+.nav-link{
+  font-family: AmaticSC-Regular;
+  color:white;
+  position: relative;
+  top: -50px;
+  left:20px;
+    font-family: AmaticSC-Regular;
+  font-size: 40px;
+  font-weight: bolder;
+  text-decoration: underline white;
+
+}
+
+
+.nav-link:hover{
+  color :white;
+  text-decoration: underline white;
+}
+.nav-link2{
+  font-family: AmaticSC-Regular;
+  color:white;
+  position: relative;
+  top: -35px;
+  left:10px;
+  font-family: AmaticSC-Regular;
+  font-size: 40px;
+  font-weight: bolder;
+  background-color: rgba(255, 255, 255, 0.192);
+
+}
+.nav-link3{
+  font-family: AmaticSC-Regular;
+  color:white;
+  position: relative;
+  top: -70px;
+  left:10px;
+  font-family: AmaticSC-Regular;
+  font-size: 40px;
+  font-weight: bolder;
+ 
+
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+
+.admin{
+  position: relative;
+  top:180px;
+}
+.UserInterface{
+  position: relative;
+  top:180px;
+}
+#name{
+  font-family: AmaticSC-Regular;
+  font-weight: bold; 
+}
+.modalEdit{
+height: 100%;
+width: 100%;
+background-color: rgba(255, 255, 255, 0.089);
+border-color:1px white solid;
+font-family: AmaticSC-Regular;
+font-weight: bold;
+}
+.vacations img {
+  max-width: 100%;
+  max-height: 100%;
+
+
+
+}
+
+.container{
+  font-family: AmaticSC-Regular;
+  font-weight: bold;
+  font-size: 40px; 
+}
+.Navbar{
+  font-family: AmaticSC-Regular;
+  font-weight: bold;
+}
+.vacations{
+  top:250px;
+}
+.card-image {
+float: left;
+width: 16rem!important;
+height: 20rem!important;
+margin: 10px 10px 5px 5px;
+font-family: AmaticSC-Regular;
+font-weight: bold;
+
+}
+
+.price{
+  font-size: 28px;
+  font-weight: 700;
+}
+.top-right {
+  float: right!important;
+}
+.top-left {
+  float: left!important;
+}
+.modal input {
+  background-color: inherit;
+  border:0;
+  color: white;
+}
+
+.fa-edit, .fa-times {
+  color: white;
+}
+
+
+.fa {
+  font-size: 18px;
+}
+
+.overlay{
+  background:transparent;
+  height: 100%;
+}
+
+.Add {
+  width: 700px;
+  height: 500px;
+  margin: 60px auto;
+  background-color: rgba(255, 255, 255, 0.13);
+  border: solid 1px white;
+  position:relative;
+  top:-30px;
+  color:white;
+  left:250px;
+  font-size:20px;
+}
+.adding {
+  color: black !important;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1; /* Firefox */
+}
+
+
+.vacations img {
+  max-width: 100%;
+  max-height: 100%;
+  position:fixed;
+  top:400px;
+
+}
+.card-image {
+float: left;
+width: 16rem!important;
+height: 20rem!important;
+margin: 10px 10px 5px 5px;
+
+}
+
+
+.price{
+  font-size: 28px;
+  font-weight: 700;
+}
+.top-right {
+  float: right!important;
+}
+.top-left {
+  float: left!important;
+}
+.modal input {
+  background-color: inherit;
+  border:0;
+  color: white;
+}
+
+.card-image {
+  float: left;
+  width: 16rem!important;
+  height: 20rem!important;
+  margin: 10px 10px 5px 5px;
+  
+}
